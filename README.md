@@ -15,7 +15,7 @@ font-family: 'S-Core Dream';
 link
 
 ```
-<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/S-CoreDream.css'/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/S-CoreDream.css"/>
 ```
 
 &nbsp;
