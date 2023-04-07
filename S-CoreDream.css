@@ -3,61 +3,79 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamThin.otf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamThin.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamThin.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamThin.otf') format('opentype');
 }
 @font-face {
     font-family: 'S-Core Dream';
     font-weight: 200;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamExtraLight.otf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamExtraLight.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamExtraLight.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamExtraLight.otf') format('opentype');
 }
 @font-face {
     font-family: 'S-Core Dream';
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamLight.otf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamLight.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamLight.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamLight.otf') format('opentype');
 }
 @font-face {
     font-family: 'S-Core Dream';
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamRegular.otf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamRegular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamRegular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamRegular.otf') format('opentype');
 }
 @font-face {
     font-family: 'S-Core Dream';
     font-weight: 500;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamMedium.otf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamMedium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamMedium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamMedium.otf') format('opentype');
 }
 @font-face {
     font-family: 'S-Core Dream';
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamBold.otf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamBold.otf') format('opentype');
 }
 @font-face {
     font-family: 'S-Core Dream';
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamExtraBold.otf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamExtraBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamExtraBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamExtraBold.otf') format('opentype');
 }
 @font-face {
     font-family: 'S-Core Dream';
     font-weight: 800;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamHeavy.otf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamHeavy.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamHeavy.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamHeavy.otf') format('opentype');
 }
 @font-face {
     font-family: 'S-Core Dream';
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamBlack.otf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamBlack.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamBlack.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/S-CoreDream/SCDreamBlack.otf') format('opentype');
 }
